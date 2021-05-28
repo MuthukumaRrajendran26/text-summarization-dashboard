@@ -278,7 +278,6 @@ scikit-learn
 sd-material-ui==3.2.0
 seaborn
 sentence-transformers==1.1.0
-sentencepiece==0.1.91
 simpletransformers==0.51.9
 sklearn==0.0
 slicer==0.0.3
