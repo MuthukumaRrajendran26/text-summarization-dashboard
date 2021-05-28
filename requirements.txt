@@ -291,7 +291,6 @@ summarizer==0.0.7
 textblob==0.15.3
 tokenize-rt==4.1.0
 tokenizers==0.10.2
-top2vec==1.0.23
 torch==1.6.0
 torchvision==0.9.1
 transformers==4.5.1
