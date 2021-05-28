@@ -289,9 +289,6 @@ stop-words==2018.7.23
 subprocess32==3.5.4
 summarizer==0.0.7
 textblob==0.15.3
-tokenize-rt==4.1.0
 torch==1.6.0
 torchvision==0.9.1
 transformers==4.5.1
-umap==0.1.1
-umap-learn==0.5.1
