@@ -120,7 +120,6 @@ ftfy==6.0.1
 funcy==1.14
 future==0.18.2
 gast==0.3.3
-GDAL==2.3.3
 gdown==3.13.0
 gensim==3.8.3
 geopandas==0.6.1
@@ -143,9 +142,6 @@ html5lib
 htmlmin==0.1.12
 hyperlink==20.0.1
 hyperopt==0.2.5
-ibm-cos-sdk==2.0.1
-ibm-cos-sdk-core==2.7.0
-ibm-cos-sdk-s3transfer==2.7.0
 idna 
 imagecodecs 
 ImageHash==4.1.0
@@ -169,12 +165,6 @@ itemadapter==0.2.0
 itemloaders==1.0.4
 itsdangerous==1.1.0
 Janome==0.4.1
-jdcal==1.4.1
-jedi 
-jieba3k==0.35.1
-Jinja2 
-jinja2-time 
-jmespath==0.10.0
 joblib==1.0.1
 json5==0.9.5
 jsonpickle==1.4.1
