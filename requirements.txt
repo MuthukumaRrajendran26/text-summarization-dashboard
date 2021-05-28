@@ -245,7 +245,6 @@ psutil
 ptyprocess 
 pushshift.py==0.1.2
 py 
-pyarrow==2.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycircos==1.0.2
