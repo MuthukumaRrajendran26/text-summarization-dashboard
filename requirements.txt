@@ -281,10 +281,6 @@ sentence-transformers==1.1.0
 simpletransformers==0.51.9
 sklearn==0.0
 slicer==0.0.3
-spacy==2.3.2
-spacy-entity-linker==0.0.5
-spacy-langdetect==0.1.2
-spacy-legacy==3.0.1
 sqlitedict==1.7.0
 sshuttle==1.0.5
 statsmodels==0.12.2
@@ -294,7 +290,6 @@ subprocess32==3.5.4
 summarizer==0.0.7
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.6.0.post3
-tensorboardX==2.1
 tensorflow==2.3.1
 tensorflow-estimator==2.3.0
 tensorflow-hub==0.10.0
