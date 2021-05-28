@@ -288,7 +288,6 @@ stevedore==3.3.0
 stop-words==2018.7.23
 subprocess32==3.5.4
 summarizer==0.0.7
-tensorflow==2.3.1
 textblob==0.15.3
 tokenize-rt==4.1.0
 tokenizers==0.10.2
