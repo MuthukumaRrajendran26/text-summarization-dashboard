@@ -208,16 +208,6 @@ multidict
 multipledispatch==0.6.0
 munch==2.5.0
 murmurhash 
-mypy-extensions==0.4.3
-navigator-updater==0.2.1
-nbclassic 
-nbclient 
-nbconvert 
-nbformat 
-nest-asyncio 
-networkx 
-newspaper3k==0.2.8
-nltk 
 nose 
 notebook 
 numba==0.51.2
