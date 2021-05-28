@@ -202,7 +202,6 @@ missingno==0.4.2
 mongoengine==0.20.0
 more-itertools 
 mpld3==0.3
-mpmath==1.2.1
 msgpack 
 mtcnn==0.1.0
 multidict 
