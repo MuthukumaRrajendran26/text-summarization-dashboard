@@ -286,6 +286,5 @@ sshuttle==1.0.5
 statsmodels==0.12.2
 stevedore==3.3.0
 stop-words==2018.7.23
-subprocess32==3.5.4
 summarize
 transformers==4.5.1
