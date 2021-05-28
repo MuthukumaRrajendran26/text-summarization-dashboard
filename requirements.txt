@@ -275,8 +275,6 @@ sacremoses==0.0.43
 scattertext==0.0.2.67
 scikit-image==0.18.1
 scikit-learn
-scipy==1.4.1
-Scrapy==2.4.1
 sd-material-ui==3.2.0
 seaborn
 sentence-transformers==1.1.0
